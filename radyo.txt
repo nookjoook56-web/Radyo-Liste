@@ -1,0 +1,661 @@
+#EXTM3U
+
+#EXTINF:-1,Karadeniz TÜRK
+http://radyo.yayin.com.tr:6134/;
+
+#EXTINF:-1,90'LAR
+https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
+
+#EXTINF:-1,103.6 Radyo Light
+https://yayin.radiolight.net:8005/live
+
+#EXTINF:-1,112 ACiL FM
+http://95.173.185.128:9316/;
+
+#EXTINF:-1,A HABER RADYO
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+
+#EXTINF:-1,A NEWS RADYO
+https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
+
+#EXTINF:-1,A PARA RADYO
+https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
+
+#EXTINF:-1,A SPOR RADYO
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+
+#EXTINF:-1,ABUZER FM
+http://live.radyotvonline.com:9030/;
+
+#EXTINF:-1,ACIPAYAM GURBETÇİ FM
+https://wowza1.radyotvonline.com/shoutcast/gurbetcifm.stream/playlist.m3u8
+
+#EXTINF:-1,AÇIK RADYO
+https://stream.34bit.net/ar.opus
+
+#EXTINF:-1,ADA FM Sakarya
+http://adafm.net:6262/;
+
+#EXTINF:-1,ADANA FM Arabesk
+https://host.onlineradyotv.net/8004/stream
+
+#EXTINF:-1,ADANA LİDER FM
+http://yayin1.yayindakiler.com:3046/;
+
+#EXTINF:-1,ADANA RADYO SEYHAN
+https://radyo.yayindakiler.com/stream/adanaseyhan/stream
+
+#EXTINF:-1,ADANA SÜPER FM
+http://yayin2.yayindakiler.com:4002/;
+
+#EXTINF:-1,ADIYAMAN ASR FM
+http://yayin2.yayindakiler.com:4072/;
+
+#EXTINF:-1,ADIYAMAN GÜNEY RADYO
+http://sunucu2.radyolarburada.com:9920/;
+
+#EXTINF:-1,ADIYAMAN MERT FM
+http://yayin2.yayindakiler.com:4004
+
+#EXTINF:-1,AFŞIN FM
+https://radyo.arkacadde.org/radio/4646/afsinradyo.mp3
+
+#EXTINF:-1,AFYON ARMONİ FM
+https://vofile.ru/turkey/armoni_fm/icecast.audio
+
+#EXTINF:-1,AFYON GÜN FM
+https://gunfmnet.80.yayin.com.tr/mp3/1/?icy=http
+
+#EXTINF:-1,AFYON RADYO 03
+https://reshun.ru/turkey/radyo-03-afyon/icecast.audio
+
+#EXTINF:-1,AFYON RADYO LOJİK
+https://vofile.ru/turkey/radyo_lojik/icecast.audio
+
+#EXTINF:-1,AHISKA FM
+http://radyo.ahiska.net:8063/;stream.nsv
+
+#EXTINF:-1,AKDAĞ FM
+http://radyovetv.com:7051/;stream.mp3
+
+#EXTINF:-1,AKDENİZ FM
+https://radio-streaming.net/turkey/akdeniz-fm-89-2/icecast.audio
+
+#EXTINF:-1,AKHİSAR METRONOM FM
+http://77.245.159.181:9360/;
+
+#EXTINF:-1,AKRA FM
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+
+#EXTINF:-1,AKSARAY FM
+https://vofile.ru/turkey/aksaray_fm_dinle/icecast.audio
+
+#EXTINF:-1,AKSARAY KRAL FM
+http://yayin.yayindakiler.com:4020/;stream.mp3
+
+#EXTINF:-1,AKŞEHİR MEGA RADYO
+http://yayin1.canliyayin.org:7078/;stream.mp3
+
+#EXTINF:-1,AKŞEHİR DOĞAN FM
+http://yayin.turkhosted.com:6046/;stream.mp3
+
+#EXTINF:-1,AKUSTİKLAND
+https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+
+#EXTINF:-1,ALANYA FM
+https://alanyafm.80.yayin.com.tr/;
+
+#EXTINF:-1,ALEM FM
+https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+
+#EXTINF:-1,ALİAĞA AKTİF FM
+http://yayin.aktiffm.com.tr:9170/;
+
+#EXTINF:-1,ALPARSLAN FM
+https://ssl123.ozelip.com:7010/;
+
+#EXTINF:-1,ALTIN ŞARKILAR
+https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
+
+#EXTINF:-1,AMASYA FM
+https://sp.radyotescil.com/8030/stream
+
+#EXTINF:-1,ANKARA HAVALARI
+https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
+
+#EXTINF:-1,ANKARA ÜNİVERSİTESİ
+http://radyo.cc.ankara.edu.tr:8089/;stream/1
+
+#EXTINF:-1,ANTAKYA RADYO RENK
+https://reshun.ru/turkey/radyo-renk-fm-antakya/icecast.audio
+
+#EXTINF:-1,ANTALYA RADYO AKDENİZ
+https://vofile.ru/turkey/radyo_akdeniz_antalya/icecast.audio
+
+#EXTINF:-1,ARABESK ALEMİ
+http://arabeskalemi.net:9300/stream?icy=http
+
+#EXTINF:-1,ARABESK DAMAR FM
+https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
+
+#EXTINF:-1,ARABESK FM
+https://anadolu.liderhost.com.tr:10949/;
+
+#EXTINF:-1,ARABESK FM BİZ
+https://yayin.arabeskfm.biz:8042/stream?icy=http
+
+#EXTINF:-1,ARABESK MELODİ FM
+https://ssl224.radyotelekom.com.tr/listen/244cda65afe5c572a14c7bda85af6162
+
+#EXTINF:-1,ARABESK RADYO
+https://radyopanel.turkwebdizayn.com/5934/stream
+
+#EXTINF:-1,ARABESK RADYO BİZ
+https://dinle.arabeskradyo.biz//mp3/1/?icy=http
+
+#EXTINF:-1,ARABESK TÜRKİYE
+https://vofile.ru/turkey/arabesk_turkiye_dinle/playlist.m3u8
+
+#EXTINF:-1,ARABESK VADİSİ
+https://sp.radyotescil.com/8010/stream
+
+#EXTINF:-1,ARABESKİN SESİ FM
+https://sp.radyotescil.com/8042/stream/;stream.mp3
+
+#EXTINF:-1,ARABESKLAND
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+
+#EXTINF:-1,ARDAHAN FM
+https://ssl120.radyotelekom.com.tr/8270/;
+
+#EXTINF:-1,ARKADAŞ FM
+http://yayin.yayindakiler.com:4134/;stream.mp3
+
+#EXTINF:-1,ARNAVUTKÖY FM
+https://arnavut2.80.yayin.com.tr/;
+
+#EXTINF:-1,ART FM Amasya
+https://59cba4d34b678.streamlock.net/radyo/artfm/playlist.m3u8
+
+#EXTINF:-1,ART FM Antalya
+http://yayin.liderhost.net:9338/;
+
+#EXTINF:-1,AŞK FM
+https://vofile.ru/turkey/Ask_fm/icecast.audio
+
+#EXTINF:-1,AŞK FM İzmir
+http://AskFm.CO:9300/;
+
+#EXTINF:-1,ATLANTİS FM
+http://live4.radyotvonline.com:9400/;
+
+#EXTINF:-1,AVRASYA TÜRK
+https://vofile.ru/turkey/radyo-avrasya-turk/icecast.audio
+
+#EXTINF:-1,AYYILDIZ FM
+http://95.173.188.166:9992/;
+
+#EXTINF:-1,BABA RADYO
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+
+#EXTINF:-1,BABYJOY
+https://17753.live.streamtheworld.com/BABYJOY128AAC.aac
+
+#EXTINF:-1,BABYLAND
+https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8
+
+#EXTINF:-1,BAFRA BARIŞ FM
+https://vofile.ru/turkey/baris_fm/icecast.audio
+
+#EXTINF:-1,BAL 10 FM
+https://anadolu.liderhost.com.tr:10928/;
+
+#EXTINF:-1,BANAZ DOST FM
+http://159.253.39.180:9968/;
+
+#EXTINF:-1,BANDIRMA GENÇ FM
+http://yayin1.canliyayin.org:7048/;stream.mp3
+
+#EXTINF:-1,BANDIRMA RADYO VENÜS
+http://yayin3.canlitv.com:9020/;
+
+#EXTINF:-1,BARIŞ RADYO
+http://yayin2.canliyayin.org:9350/;
+
+#EXTINF:-1,BARTIN FM
+https://vofile.ru/turkey/74_bartin_fm/icecast.audio
+
+#EXTINF:-1,BAŞAK FM
+http://www.basakfm.net:9797/;
+
+#EXTINF:-1,BAŞKA
+https://18463.live.streamtheworld.com/BASKA128AAC.aac
+
+#EXTINF:-1,BATI RADYO
+https://sslyayin.netyayin.net:10902/;
+
+#EXTINF:-1,BAYRAM FM
+https://sslyayin.netyayin.net/3442/stream
+
+#EXTINF:-1,BEST FM
+https://babaradyo.turkhosted.com/best/bestfm.stream/playlist.m3u8
+
+#EXTINF:-1,BESTE FM
+https://server22692.streamplus.de/;stream.mp3
+
+#EXTINF:-1,BEY FM
+http://45.32.154.169:9304/;stream.mp3
+
+#EXTINF:-1,BEYZADE FM
+http://sunucu.radyodinle.com:9900/;
+
+#EXTINF:-1,BİGA FM
+https://vofile.ru/turkey/biga-fm/icecast.audio
+
+#EXTINF:-1,BİLECİK FM
+http://bilecikfm.kesintisizyayin.com:9980/;
+
+#EXTINF:-1,BİLECİK RADYO 11
+http://ip131.radyotelekom.com:9832/;
+
+#EXTINF:-1,BİNGÖL FM
+http://yayin1.canliyayin.org:8844/;
+
+#EXTINF:-1,BİNGÖL RADYO AZELYA
+http://radyoazelya.radyotvyayini.com:9052/;
+
+#EXTINF:-1,BİZ FM
+https://bizzfm.radioca.st/stream.mp3
+
+#EXTINF:-1,BİZİM RADYO
+http://95.173.188.156:9986/;
+
+#EXTINF:-1,BLOOMBERG HT RADYO
+https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
+
+#EXTINF:-1,BODRUM FM
+http://nephelis.com:8000/;
+
+#EXTINF:-1,BOĞAZLIYAN FM
+http://yayin3.canlitv.com:6080/;
+
+#EXTINF:-1,BOLU FM
+http://yayin3.canlitv.com:8090/;
+
+#EXTINF:-1,BOLU RADYO YANKI
+http://159.253.39.179:9918/;
+
+#EXTINF:-1,BORUSAN KLASIK
+https://18463.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
+
+#EXTINF:-1,BOTAN FM
+http://yayin1.canliyayin.org:8026/;
+
+#EXTINF:-1,BRT BAYRAK FM
+http://sc.brtk.net:8000
+
+#EXTINF:-1,BRT BAYRAK INT
+http://sc.brtk.net:8004/
+
+#EXTINF:-1,BRT BAYRAK KLASİK
+http://sc.brtk.net:8006/
+
+#EXTINF:-1,BRT BAYRAK RADYO HABER
+http://sc.brtk.net:8008/
+
+#EXTINF:-1,BRT BAYRAK RADYOSU
+http://sc.brtk.net:8002/
+
+#EXTINF:-1,BRT BAYRAK TÜRK MÜZİĞİ
+http://sc.brtk.net:8010/
+
+#EXTINF:-1,BUCAK FM
+http://95.173.184.20:9588/;
+
+#EXTINF:-1,BURSA 1001 FM
+http://yayin3.canlitv.com:9050/;stream.mp3
+
+#EXTINF:-1,BURSA DENİZ FM
+http://yayin2.yayindakiler.com:4152/;
+
+#EXTINF:-1,BURSA DOST FM
+https://vofile.ru/turkey/dost_fm_bursa/icecast.audio
+
+#EXTINF:-1,BURSA FM
+http://yayin.bursafm.com.tr:1055/;
+
+#EXTINF:-1,BURSA KARADENIZ FM
+https://vofile.ru/turkey/bursa_karadeniz_fm/icecast.audio
+
+#EXTINF:-1,BURSA RADYO 14
+http://yayin3.canlitv.com:7020/;stream.mp3
+
+#EXTINF:-1,BURSA RADYO 16
+https://vofile.ru/turkey/radyo_16_dinle/icecast.audio
+
+#EXTINF:-1,BURSA RADYO AKTİF
+https://icecast.netmedya.net/radyoaktif
+
+#EXTINF:-1,BURSA RADYO BU
+https://radyo.yayindakiler.com/stream/BursaRadyoBU/stream
+
+#EXTINF:-1,BURSA RADYO DERMAN
+http://sunucu2.radyolarburada.com:3636/stream
+
+#EXTINF:-1,BURSA RADYO GÜNEŞ İnegöl
+https://vofile.ru/turkey/radyo_gunes_dinle/icecast.audio
+
+#EXTINF:-1,BURSA RADYO NİDA
+http://159.253.37.137:9914/;stream/1
+
+#EXTINF:-1,BURSA RADYO S
+https://icecast.netmedya.net/radyos
+
+#EXTINF:-1,BURSA RADYO ŞAMPİYON
+http://95.173.188.166:9782/;
+
+#EXTINF:-1,BURSA RADYO TÜRK
+https://radyo.yayindakiler.com/stream/bursaturk/stream
+
+#EXTINF:-1,BURSA SÜPERBİ RADYO
+http://live.arkumedia.com:8004/stream
+
+#EXTINF:-1,BURSA ULUDAĞ FM
+https://reshun.ru/turkey/uludag-fm-bursa/icecast.audio
+
+#EXTINF:-1,BURSADA BUGÜN RADYO
+https://radyo.bursadabugun.com/stream
+
+#EXTINF:-1,CAN FM ISTANBUL
+https://canfmgen.80.yayin.com.tr
+
+#EXTINF:-1,CAN RADYO İzmir
+https://vofile.ru/turkey/can_radyo_93_3/icecast.audio
+
+#EXTINF:-1,CAN RADYO Kayseri
+http://canradyo.kesintisizyayin.com:3838/;
+
+#EXTINF:-1,CANTÜRK FM
+https://ssl180.ozelip.com/asistan/stream/e7fffc27d21e649499ecaba8ea5b392f
+
+#EXTINF:-1,CEM RADYO
+https://yayin2.canliyayin.org:10924/;
+
+#EXTINF:-1,CEMRE FM
+https://vofile.ru/turkey/cemre_fm_dinle/icecast.audio
+
+#EXTINF:-1,CLASSICLAND
+https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+
+#EXTINF:-1,CNN TÜRK RADYO
+https://cdn.duhnet.tv/S2/HLS_LIVE/cnnradyo/index.m3u8
+
+#EXTINF:-1,ÇAĞLAR FM Malatya
+https://vofile.ru/turkey/caglar_fm_malatya_95_3/icecast.audio
+
+#EXTINF:-1,ÇAĞRI FM
+http://yayin1.canliyayin.org:8202/;stream.mp3
+
+#EXTINF:-1,ÇAMLICA FM
+http://95.173.185.43:9314/;
+
+#EXTINF:-1,ÇAN FM
+https://radio-streaming.net/turkey/can-radyo-canakkale/playlist.m3u8
+
+#EXTINF:-1,ÇAYCUMA RADYO TEK
+http://radyovetv.com:6008/;stream.mp3
+
+#EXTINF:-1,ÇAYELİ FM
+https://radyo1.radyo-dinle.tc:7014/;
+
+#EXTINF:-1,ÇİĞLİ FM
+https://anadolu.liderhost.com.tr:10887/;
+
+#EXTINF:-1,ÇORLU FM
+https://59cba4d34b678.streamlock.net/radyo/corlufm/playlist.m3u8
+
+#EXTINF:-1,ÇORLU RADYO GÜNDEM
+https://icecast.netmedya.net/radyogundem
+
+#EXTINF:-1,ÇORLU TEMPO FM
+https://stream2.rtvtakip.com:7016/;stream.mp3
+
+#EXTINF:-1,ÇORUM FM
+http://stream.taksimbilisim.com:8028/;stream.mp3
+
+#EXTINF:-1,DALAMAN SAHİL FM
+https://radio-streaming.net/turkey/sahil-97-4-fm/playlist.m3u8
+
+#EXTINF:-1,DAMAR FM
+https://yayin.damarfm.com/stream
+
+#EXTINF:-1,DAMARIN KALBİ FM
+https://sp.radyotescil.com/8004/stream
+
+#EXTINF:-1,DAMAR TÜRK FM
+https://live.radyositesihazir.com:10997/,
+
+#EXTINF:-1,DAMLA FM
+https://vofile.ru/turkey/damla_fm/icecast.audio
+
+#EXTINF:-1,DANCELAND
+https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+
+#EXTINF:-1,DEĞİŞİM RADYO
+http://yayin1.yayindakiler.com:3120/;
+
+#EXTINF:-1,DEM RADYO
+https://yayin.radyodem.com:8000/stream/;stream.mp3
+
+#EXTINF:-1,DENİZ FM Kayseri
+https://reshun.ru/turkey/deniz-fm-kayseri/icecast.audio
+
+#EXTINF:-1,DENIZ FM INTERNET
+http://radyo.hostlan.net:8018/;
+
+#EXTINF:-1,DENİZLİ BİZİM İLLER RADYO
+http://yayin.yayindakiler.com:4078/;
+
+#EXTINF:-1,DENİZLİ DOSTLAR FM
+http://95.173.188.166:9848/;
+
+#EXTINF:-1,DENİZLİ RADYO DEVA
+https://radyopanel.turkwebdizayn.com:10994/stream
+
+#EXTINF:-1,DENİZLİ SES RADYO
+http://95.173.188.166:9300/;
+
+#EXTINF:-1,DERYA FM Konya
+http://nonstopkonya.canliyayinda.com:9898/;stream.mp3
+
+#EXTINF:-1,DİJİTAL RADYO
+https://anadolu.liderhost.com.tr:10961/;
+
+#EXTINF:-1,DİNAMO FM
+https://channels.dinamo.fm/legacy-mp3
+
+#EXTINF:-1,DISCOLAND
+https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+
+#EXTINF:-1,DİYANET KURAN RADYO
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+
+#EXTINF:-1,DİYANET RADYO
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
+
+#EXTINF:-1,DİYANET RİSALET RADYO
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+
+#EXTINF:-1,DİYARBAKIR AMED RADYO
+http://95.173.162.182:9992/;
+
+#EXTINF:-1,DİYARBAKIR DOĞAN 21 FM
+http://yayin1.yayindakiler.com:3024/;
+
+#EXTINF:-1,DOKSAN FM
+https://radyopanel.turkwebdizayn.com/9988/stream
+
+#EXTINF:-1,DOKSANLAR
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+
+#EXTINF:-1,DOST FM Ankara
+https://vofile.ru/turkey/dost_fm_dinle/icecast.audio
+
+#EXTINF:-1,DOST FM Hatay
+http://yayin.netyayin.net:1515/streype=.mp3
+
+#EXTINF:-1,DREAM FM
+http://95.154.193.6:8079/stream
+
+#EXTINF:-1,DREAMTÜRK FM
+https://radyo.duhnet.tv/dreamturk
+
+#EXTINF:-1,DUY FM
+https://anadolu.liderhost.com.tr:10963/;
+
+#EXTINF:-1,DÜZCE RADYO KENT
+https://anadolu.liderhost.com.tr:10905/;
+
+#EXTINF:-1,EASYLAND
+https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
+
+#EXTINF:-1,EFKAR
+https://22323.live.streamtheworld.com/SC008_SO1AAC.aac
+
+#EXTINF:-1,EFSANE 4'LÜ
+https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8
+
+#EXTINF:-1,EGE FM
+http://sunucu.radyodinle.com:2024/;
+
+#EXTINF:-1,EGE HAVALARI
+https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
+#EXTINF:-1,EKİN RADYO
+http://yayin.turkhosted.com:6006/;
+
+#EXTINF:-1,ELAZIĞ EZGİ RADYO
+http://sunucu.radyodinle.com:1782/;
+
+#EXTINF:-1,ELAZIĞ MAVİ RADYO
+https://ssl.elazigmaviradyo.com/ssl/6066
+
+#EXTINF:-1,ELAZIĞ RADYO HAZAR
+http://radyohazar.canliyayinda.com:8286/;
+
+#EXTINF:-1,ELAZIĞ RADYO KENT
+http://yayin.yayindakiler.com:4044/;stream/1
+
+#EXTINF:-1,ELBİSTAN RADYO UMUT
+http://yayin.canliyayin.org:8892/;
+
+#EXTINF:-1,ENDERUN FM
+http://yayin2.canliyayin.org:7052/;
+
+#EXTINF:-1,ERCİŞ FM
+https://anadolu.liderhost.com.tr:10970/;
+
+#EXTINF:-1,ERDEK FM Balıkesir
+http://95.173.162.181:9912/;
+
+#EXTINF:-1,EREĞLİ DEMOKRAT FM
+https://radyo.akyuznet.com.tr/radio/8160/radio.mp3
+
+#EXTINF:-1,ERKAM RADYO
+https://usd.nocvp.com/asset/7G7oEaxS/playlist.m3u8
+
+#EXTINF:-1,ERZİNCAN İNCİTEK FM
+http://yayin2.yayindakiler.com:4204/;
+
+#EXTINF:-1,ERZİNCAN RADYO DOST
+http://yayin1.yayindakiler.com:3156/;
+
+#EXTINF:-1,ERZİNCAN RADYO TEK
+http://yayin2.yayindakiler.com:4202/;
+
+#EXTINF:-1,ERZURUM İMAJ FM
+http://sunucu.radyodinle.com:9797/;
+
+#EXTINF:-1,ERZURUM RADYO RITM
+http://radyo.yayin.com.tr:8091/;
+
+#EXTINF:-1,ES FM
+http://yayin.yayindakiler.com:4012/;
+
+#EXTINF:-1,ESAS RADYO
+http://yayin.turkhosted.com:6034/;
+
+#EXTINF:-1,ESKİŞEHİR TEMPO RADYO
+https://vofile.ru/turkey/Tempo_Radyo/icecast.audio
+
+#EXTINF:-1,ESSEX TURKİSH RADİO
+https://anadolu.liderhost.com.tr:10947/;
+
+#EXTINF:-1,EViN FM
+http://EvinFm.Com:9500
+
+#EXTINF:-1,EVRENSEL FM
+http://94.102.4.29:9996/;
+
+#EXTINF:-1,EVRENSEL RADYO
+https://anadolu.liderhost.com.tr:10990/
+
+#EXTINF:-1,EYNESİL MERCAN FM
+https://ip169.ozelip.com:10975/;stream.nsv
+
+#EXTINF:-1,FENOMEN
+https://listen.radyofenomen.com/fenomen/128/icecast.audio
+
+#EXTINF:-1,FIRAT FM
+https://anadolu.liderhost.com.tr:10913/;
+
+#EXTINF:-1,FISTIK FM
+https://vofile.ru/turkey/fistik_fm/icecast.audio
+
+#EXTINF:-1,FLOW
+https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
+
+#EXTINF:-1,FM 23 Elazığ
+http://radyo.yayin.com.tr:8280/;
+
+#EXTINF:-1,FON RADYO Malatya
+http://sunucu.radyodinle.com:9188/;
+
+#EXTINF:-1,FORA FM VIYANA
+https://ssl120.radyotelekom.com.tr:10910/;
+
+#EXTINF:-1,FURKAN RADYO
+https://radio-streaming.net/turkey/furkan-radyo-kayseri/playlist.m3u8
+
+#EXTINF:-1,GAP FM
+https://anadolu.liderhost.com.tr:10891/;
+
+#EXTINF:-1,GARAJ RADYO
+http://ssl3.radyotvonline.com/radyoland/garajradyo.stream/playlist.m3u8
+
+#EXTINF:-1,GAZİANTEP RADYO KİLİM
+http://yayin.netyayin.net:2727/;
+
+#EXTINF:-1,GAZİANTEP RADYO ŞİRİNNAR
+http://yayin.yayindakiler.com:4048/;
+
+#EXTINF:-1,GEBZE FM
+http://gebzefm.radyotvyayini.com:9530/;
+
+#EXTINF:-1,GEBZE GÜL FM
+http://yayin2.canliyayin.org:8866/;
+
+#EXTINF:-1,GECEKUŞU FM
+https://radyo1.radyo-dinle.tc:7053/;
+
+#EXTINF:-1,GENÇ İMAJ FM
+https://anadolu.liderhost.com.tr:10950/;
+
+#EXTINF:-1,GENÇ KRAL FM
+https://anadolu.liderhost.com.tr:10991/;
+
+#EXTINF:-1,GENÇ RADYO
+http://yayin.turkhosted.com:6030/;
+
+#EXTINF:-1,GENERAL FM
+http://37.59.205.23/;
