@@ -11,7 +11,6 @@ http://stream.radyo45lik.com:4545/stream
 
 #EXTINF:-1,Bilecik FM
 http://bilecikfm.kesintisizyayin.com:9980/
-#EXTM3U
 
 #EXTINF:-1,Alem FM
 http://turkmedya.radyotvonline.net/alemfm
@@ -73,9 +72,6 @@ http://80.94.156.33:80/
 #EXTINF:-1,Diyanet Radyo
 http://rtp.diyanet.gov.tr:8000/stream
 
-#EXTINF:-1,Diyanet Kur'an Radyo
-http://rtp.diyanet.gov.tr:8000/kuran
-
 #EXTINF:-1,Radyo 7
 http://radyo7.kesintisizyayin.com:8000/
 
@@ -96,61 +92,3 @@ https://radyo.dogannet.tv/dreamturk
 
 #EXTINF:-1,Kafa Radyo
 https://shoutcast.radyogrup.com/stream/61/
-
-#EXTINF:-1,Joy Turk
-https://radyo.turkuvazradyotv.com/turkuvaz4
-
-#EXTINF:-1,Number One FM
-https://n10101.cdn.mediadirect.global/shoutcast/nr1fm_shoutcast/
-
-#EXTINF:-1,Number One Turk
-https://n10101.cdn.mediadirect.global/shoutcast/nr1turk_shoutcast/
-
-#EXTINF:-1,Kral FM Arabesk
-https://kralfm.radyotvonline.net/kralfm
-
-#EXTINF:-1,Pal Station
-https://shoutcast.radyogrup.com/stream/41/
-
-#EXTINF:-1,Pal Doğa
-https://shoutcast.radyogrup.com/stream/42/
-
-#EXTINF:-1,Radyo Müzik
-https://shoutcast.radyogrup.com/stream/43/
-
-#EXTINF:-1,TRT Radyo 1
-http://live.trt-tv.com/shoutcast.php?kanal=radyo1
-
-#EXTINF:-1,TRT FM
-http://live.trt-tv.com/shoutcast.php?kanal=trtfm
-
-#EXTINF:-1,TRT Radyo 3
-http://live.trt-tv.com/shoutcast.php?kanal=radyo3
-
-#EXTINF:-1,TRT Türkü
-http://live.trt-tv.com/shoutcast.php?kanal=trtturku
-
-#EXTINF:-1,TRT Nağme
-http://live.trt-tv.com/shoutcast.php?kanal=trtnagme
-
-#EXTINF:-1,Semerkand Radyo
-http://yayin.semerkandradyo.com:8020/stream
-
-#EXTINF:-1,Lounge FM
-http://yayin.loungefm.com:8000/
-
-#EXTINF:-1,Radyo Eksen
-http://46.20.3.201/
-
-#EXTINF:-1,Radyo Voyage
-http://46.20.3.204/
-
-#EXTINF:-1,Akra FM
-http://46.20.7.120/stream.mp3
-
-#EXTINF:-1,Moral FM
-http://37.247.100.100:80/
-
-#EXTINF:-1,Erkam Radyo
-http://yayin.erkamradyo.com:8012/stream
-
