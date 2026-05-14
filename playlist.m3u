@@ -1,13 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1,Baba Radyo
+#EXTINF:-1 tvg-id="" tvg-name="BABA Radyo" tvg-logo="https://titanplayer.net/logo/694236.png" group-title="TR ⚡️ Radyo",BABA Radyo
 http://37.247.98.7:80/;stream.mp3
 
-#EXTINF:-1,Best FM
+#EXTINF:-1 tvg-id="" tvg-name="BEST FM" tvg-logo="https://titanplayer.net/logo/938905.png" group-title="TR ⚡️ Radyo",Best FM
 http://46.20.7.126/bestfm.mp3
 
-#EXTINF:-1,Radyo 45'lik
+#EXTINF:-1 tvg-id="" tvg-name="Radyo 45'lik" tvg-logo="https://titanplayer.net/logo/410478.png" group-title="TR ⚡️ Radyo",Radyo 45'lik
 http://stream.radyo45lik.com:4545/stream
 
-#EXTINF:-1,Bilecik FM
+#EXTINF:-1 tvg-id="" tvg-name="Bilecik FM" tvg-logo="" group-title="TR ⚡️ Radyo",Bilecik FM
 http://bilecikfm.kesintisizyayin.com:9980/
+
+#EXTINF:-1 tvg-id="" tvg-name="TRT Radyo Haber" tvg-logo="https://titanplayer.net/logo/602443.png" group-title="TR ⚡️ Radyo",TRT Radyo Haber
+https://rd-trtradyohaber.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Memleketim FM" tvg-logo="https://titanplayer.net/logo/400172.png" group-title="TR ⚡️ Radyo",Memleketim FM
+https://radio-trtmemleketimfm.medya.trt.com.tr/master_128_primary_1098139.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="Türkiye'nin SESİ Radyosu" tvg-logo="https://titanplayer.net/logo/199374.png" group-title="TR ⚡️ Radyo",Türkiye'nin SESİ Radyosu
+https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Antalya Radyosu" tvg-logo="https://titanplayer.net/logo/737372.png" group-title="TR ⚡️ Radyo",Antalya Radyosu
+https://radio-trtantalya.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Erzurum Radyosu" tvg-logo="https://titanplayer.net/logo/654618.png" group-title="TR ⚡️ Radyo",Erzurum Radyosu
+https://radio-trterzurum.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GAP Diyarbakır Radyosu" tvg-logo="https://titanplayer.net/logo/444011.png" group-title="TR ⚡️ Radyo",GAP Diyarbakır Radyosu
+https://radio-trtgap.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Trabzon Radyosu" tvg-logo="https://titanplayer.net/logo/329129.png" group-title="TR ⚡️ Radyo",Trabzon Radyosu
+https://radio-trttrabzon.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="JOY TÜRK FM" tvg-logo="https://titanplayer.net/logo/947059.png" group-title="TR ⚡️ Radyo",JOY TÜRK FM
+https://22353.live.streamtheworld.com/JOY_TURK_SC?/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Power TÜRK FM" tvg-logo="https://titanplayer.net/logo/196317.png" group-title="TR ⚡️ Radyo",Power TÜRK FM
+https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KAFA Radyo" tvg-logo="https://titanplayer.net/logo/908764.png" group-title="TR ⚡️ Radyo",KAFA Radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP Radyo" tvg-logo="https://titanplayer.net/logo/444200.png" group-title="TR ⚡️ Radyo",KRAL POP Radyo
+https://ssldyg2.radyotvonline.com/dyg/kralpop64.stream/playist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul FM" tvg-logo="https://titanplayer.net/logo/462243.png" group-title="TR ⚡️ Radyo",İstanbul FM
+https://yayin.istanbulfm.com.tr/istanbulfm
