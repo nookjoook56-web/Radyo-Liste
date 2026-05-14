@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.canliradyodinle.fm/images/radyo/polis-radyosu.png" group-title="TR ⚡️ Radyo", Polis Radyosu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.canliradyodinle.fm/
+https://m.egm.gov.tr:8093/stream?/;stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="BABA Radyo" tvg-logo="https://titanplayer.net/logo/694236.png" group-title="TR ⚡️ Radyo",BABA Radyo
 http://37.247.98.7:80/;stream.mp3
@@ -117,8 +121,6 @@ https://stream.klassikradio.de/mozart/mp3-128
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7pzWpx.png" group-title="Klassik Radio",Pure Verdi 
 https://stream.klassikradio.de/verdi/mp3-128
 
-#
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vsVnGAN.png" group-title="Stingray Music",Nothin' But 90s 
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
@@ -172,8 +174,6 @@ https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vsVnGAN.png" group-title="Stingray Music",Qello Concerts by Stingray 
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8 
-
-#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mejgvzJ.png" group-title="80s 90s",90s 90s
 https://streams.90s90s.de/pop/mp3-192
@@ -235,8 +235,6 @@ https://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-192-8841017
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mejgvzJ.png" group-title="80s 90s",80s Jackson 
 https://streams.80s80s.de/mj/mp3-128
 
-#
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jrcfaRm.png" group-title="Dünya Radyoları",BBC Radio 1 
 https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.norewind.m3u8
 
@@ -255,7 +253,6 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6e5jGfN.png" group-title="Dünya Radyoları",BBC Radio 6 
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_6music.mpd
 
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T73Gp70.png" group-title="Dünya Radyoları",RTL Gold 
 https://stream.rtl.lu/data/live/radio/rtlgold/playlist.m3u8
 
@@ -288,8 +285,6 @@ https://live.radioart.com/fPiano_for_sleep.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6E5Gx5Z.png" group-title="Dünya Radyoları",Radio Arts - Guitar for Sleep 
 https://live.radioart.com/fGuitar_for_sleep.mp3 
-
-#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5YIAol.png" group-title="Türk Radyoları",TRT Radyo 1 
 https://trt.radyotvonline.net/trt1
@@ -378,19 +373,4 @@ https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60vSaVe.png" group-title="Türk Radyoları",dinamo FM 
 http://channels.dinamo.fm/legacy-mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSaVe.png" group-title="Türk Radyoları",dinamo FM - Sleep 
-https://channels.dinamo.fm/sleep-aac
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSaVe.png" group-title="Türk Radyoları",dinamo FM - Cafe 
-https://channels.dinamo.fm/caffe-aac
-
-#
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sXe2aWE.png" group-title="Kanallar",MTV Classic 
-https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aEPTd1h.png" group-title="Kanallar",MTV Live 
-https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k04xilU.png" group-title="Kanallar",Stingray MovieMusic 
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSaVe.png" group-title="Türk Radyo
